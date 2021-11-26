@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/drawable-mdpi/round_back_brown100.xml" value="0.19583333333333333" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/drawable/bottom_navigation_color_selector.xml" value="0.19583333333333333" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/drawable/btn_generate.xml" value="0.19583333333333333" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/drawable/call.xml" value="0.19282051282051282" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/drawable/ic_baseline_call_24.xml" value="0.1675925925925926" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/drawable/ic_launcher_background.xml" value="0.19282051282051282" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/drawable/ic_local_play.xml" value="0.19583333333333333" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/drawable/ic_shopping_basket.xml" value="0.19583333333333333" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/drawable/input_number.xml" value="0.22" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/drawable/shape4_form.xml" value="0.19583333333333333" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/activity_home.xml" value="0.22" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/activity_otpactivity.xml" value="0.1" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/drawer_nvigation_header.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/fragment_blank.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/fragment_browser.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/fragment_call.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/fragment_chats.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/fragment_contact.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/fragment_googlesearchview.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/fragment_home.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/fragment_login.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/fragment_mall.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/layout/fragments_calll.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/menu/drawer_navigation.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.1796875" />
+        <entry key="..\:/Firebase/FirebasePhoneAuthentication/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.19282051282051282" />
+        <entry key="..\:/Project/FirebasePhoneAuthentication/app/src/main/res/layout/activity_home.xml" value="0.14666666666666667" />
+        <entry key="..\:/Project/FirebasePhoneAuthentication/app/src/main/res/layout/activity_main.xml" value="0.1796875" />
+        <entry key="..\:/Project/FirebasePhoneAuthentication/app/src/main/res/layout/activity_otpactivity.xml" value="0.14666666666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

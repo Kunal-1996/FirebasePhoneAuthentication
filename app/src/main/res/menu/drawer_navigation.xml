@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view"
+    >
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/nav_my_order"
+            android:title="My Order"
+            android:icon="@drawable/ic_shopping_basket">
+
+        </item>
+
+        <item
+            android:id="@+id/nav_my_passbook"
+            android:icon="@drawable/ic_content_paste"
+            android:title="My Passbook"/>
+
+        <item
+            android:id="@+id/nav_payment_remainder"
+            android:icon="@drawable/ic_payment"
+            android:title="Payments"/>
+
+        <item
+            android:id="@+id/nav_my_credit_score"
+            android:icon="@drawable/ic_adjust"
+            android:title="Credit Score"/>
+
+        <item
+            android:id="@+id/nav_my_favorite_stores"
+            android:icon="@drawable/ic_store"
+            android:title="Store"/>
+
+        <item
+            android:id="@+id/nav_logout"
+            android:icon="@drawable/ic_logout"
+            android:title="Logout"/>
+
+    </group>
+
+
+
+
+</menu>
