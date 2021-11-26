@@ -125,6 +125,7 @@ public class HomeActivity extends AppCompatActivity {
 
 
 
+
     private void setupViewPager (ViewPager viewPager){
         ViewPagerAdapter adapter = new ViewPagerAdapter(getSupportFragmentManager());
         callsFragment = new GoogleSearchViewFragment();

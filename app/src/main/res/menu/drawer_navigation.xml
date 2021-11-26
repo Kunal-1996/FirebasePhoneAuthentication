@@ -17,7 +17,7 @@
         <item
             android:id="@+id/nav_my_passbook"
             android:icon="@drawable/ic_content_paste"
-            android:title="My Passbook"/>
+            android:title="My Personal Passbook"/>
 
         <item
             android:id="@+id/nav_payment_remainder"

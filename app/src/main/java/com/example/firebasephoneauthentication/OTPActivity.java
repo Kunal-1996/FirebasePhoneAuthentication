@@ -126,7 +126,7 @@ public class OTPActivity extends AppCompatActivity {
                             finish();
 
                         } else {
-                            Toast.makeText(getApplicationContext(),"Signin Code Error",Toast.LENGTH_LONG).show();
+                            Toast.makeText(getApplicationContext(),"Sign in Code Error",Toast.LENGTH_LONG).show();
                         }
                     }
                 });
