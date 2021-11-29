@@ -10,11 +10,7 @@ import android.view.ViewGroup;
 
 import com.example.firebasephoneauthentication.R;
 
-/**
- * A simple {@link Fragment} subclass.
- * Use the {@link CallFragment#newInstance} factory method to
- * create an instance of this fragment.
- */
+
 public class CallFragment extends Fragment {
 
     // TODO: Rename parameter arguments, choose names that match
