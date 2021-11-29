@@ -137,6 +137,38 @@ public class HomeActivity extends AppCompatActivity {
         viewPager.setAdapter(adapter);
     }
 
+
+    private void getKeyFromChunks(){
+
+
+    }
+/*
+    func getKeyFromChunks() -> String {
+
+
+
+        let chunk1 = Constan`ts.z + Constants.j
+
+
+
+        let chunk2 = Constants.s + Constants.i
+
+
+
+        let chunk3 = Constants.d + Constants.x
+
+
+
+        let key = chunk1 + chunk2 + chunk3
+
+
+
+        return key
+
+
+
+    }*/
+
 }
 
 
