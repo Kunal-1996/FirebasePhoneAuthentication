@@ -13,6 +13,9 @@ import android.widget.SearchView;
 
 import com.example.firebasephoneauthentication.R;
 
+/**
+ * This Class Used to the Google Search
+ */
 public class GoogleSearchViewFragment extends Fragment {
 
     private SearchView searchView;
@@ -35,6 +38,7 @@ public class GoogleSearchViewFragment extends Fragment {
             @Override
             public boolean onQueryTextSubmit(String query) {
 
+                //Google SearchView Added
                 webView.loadUrl("https://www.google.com/search?q="+searchView.getQuery());
                 return false;
 
